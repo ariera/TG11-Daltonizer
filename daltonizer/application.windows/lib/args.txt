@@ -1,0 +1,3 @@
+ -Xms64m -Xmx256m
+daltonizer
+daltonizer.jar,core.jar
